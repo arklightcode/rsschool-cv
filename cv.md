@@ -1,0 +1,98 @@
+# Arthur Belyak
+
+## Contacts
+
+- GitHub: [arklightcode](https://github.com/arklightcode)
+- Email: arturbwc@gmail.com
+- Telegram: @arklightN
+
+## About Me
+
+I am a web developer with commercial experience in developing and maintaining websites based on 1C-Bitrix, PHP and JavaScript.
+
+My work includes implementing custom functionality, improving existing projects, integrating external services, working with catalogs and filters, optimizing websites and supporting e-commerce projects.
+
+I also have experience with Python, TypeScript, React, Next.js and WordPress.
+
+My current goal is to strengthen my full-stack development skills, deepen my knowledge of JavaScript and backend development, and improve my understanding of software architecture and modern development practices.
+
+## Skills
+
+### Languages
+
+- JavaScript
+- TypeScript
+- PHP
+- Python
+- HTML5
+- CSS3
+
+### Frameworks and Technologies
+
+- React
+- Next.js
+- 1C-Bitrix
+- WordPress
+- REST API
+- AJAX
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- MySQL
+- Nginx
+
+## Code Example
+
+Codewars task: multiply two numbers.
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+## Experience and Projects
+
+### Zoloto.ru
+
+Commercial e-commerce project based on 1C-Bitrix.
+
+My responsibilities included:
+
+- fixing integration between the website and 1C;
+- developing and improving parts of the main page and catalog;
+- fixing and reworking catalog filtering;
+- maintaining and improving existing website functionality.
+
+### Milena Aesthetic
+
+Commercial website project.
+
+My responsibilities included:
+
+- website performance optimization;
+- catalog restructuring and improvement;
+- implementing the Russian version of the website;
+- creating convenient content language switching in the administration panel;
+- developing popups and additional interface functionality;
+- creating a Python parser for Google reviews.
+
+## Education
+
+4th-year student in Information Systems.
+
+During my studies, I work with software development, information systems and web technologies.
+
+I also continue learning web development independently through documentation, practical projects and programming courses.
+
+## English
+
+English level: approximately A2–B1.
+
+I can read technical documentation, understand programming-related texts and communicate in writing on familiar technical topics.
+
+Currently, I am actively improving my vocabulary, grammar and ability to build natural sentences in English.
